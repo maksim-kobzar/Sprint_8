@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: org.example.AccountTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.203 s <<< FAILURE! - in org.example.AccountTest
+checkNameToEmbossMax3(org.example.AccountTest)  Time elapsed: 0.013 s  <<< FAILURE!
+java.lang.AssertionError: Ошибка граничных значений <= 3
+	at org.example.AccountTest.checkNameToEmbossMax3(AccountTest.java:21)
+
